@@ -3,7 +3,21 @@
 Weather app is an iOS application used with Open Weather API which will forecast the  current,daily and weekly weather report of the current location.
 
 # Technical Stack
-SwiftUI
+
+- swiftUI
+- iOS 14
+- Generic API Manager
+- Lottie Animation
+- Core Location
+- Xcode 12
+- Cocoapods
+- Combine
+- Local Notificaltion
+- MVVM(Coding Pattern)
+- Google Mobile Ads
+- Unit test cases
+
+
 
 # Project Details
 
