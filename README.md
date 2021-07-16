@@ -34,8 +34,7 @@ If any problem persists,
 # Execution
 
 1. "**Globe**" symbol will direct you to raw data.
-2. In Content view  uncommand "**GADBannerViewController()**" for Google mobile add (commaned for design purpose so that it wont come in between UI).
-
+2. In Content view remove comment line "**GADBannerViewController()**" for Google mobile add.
     
 
 # Project Details
