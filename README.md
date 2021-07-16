@@ -34,7 +34,7 @@ If any problem persists,
 # Execution
 
 1. "**Globe**" symbol will direct you to raw data.
-2. In Content view  uncommand "**GADBannerViewController()**" for Google mobile add (to look design nicer its hided with commandlines).
+2. In Content view  uncommand "**GADBannerViewController()**" for Google mobile add (commaned for design purpose so that it wont come in between UI).
 
     
 
@@ -44,10 +44,13 @@ This project is developed in **SwiftUI** using MVVM pattern, API client with POP
 
 Constants are created for the application for the easy localization or any content change. SwiftUI views are used to display the results, details and few settings actions, Computed properties are used in the model which will give the leverage to keep the codable keys as it is and access the user required data with ease.
 
-**Reachabiliy** :Class for network change 
-**LocationManager** :Class for the location request and authorization change observation.
-**BGAPIHelpers** : Are added just to show the other way with swift client to use
-**Unit test cases** : Are being added for the possible places and the code coverage has been done as much as possible, ofcourse the 100% coverage is not possible in the real world but tried to cover as much as possible due to the time constraint.
+1.**Reachabiliy** :Class for network change 
+
+2.**LocationManager** :Class for the location request and authorization change observation.
+
+3.**BGAPIHelpers** : Are added just to show the other way with swift client to use.
+
+4.**Unit test cases** : Are being added for the possible places and the code coverage has been done as much as possible, ofcourse the 100% coverage is not possible in the real world but tried to cover as much as possible due to the time constraint.
 
 
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 13 39](https://user-images.githubusercontent.com/70209068/125987970-f87005b2-8c70-40ff-b6be-299fb5c0091d.png)
