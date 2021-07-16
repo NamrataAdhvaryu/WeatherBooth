@@ -38,4 +38,7 @@ Constants are created for the application for the easy localization or any conte
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 14 13](https://user-images.githubusercontent.com/70209068/125988005-12264a24-18d2-44ed-9495-14fbab95a9cd.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 14 09](https://user-images.githubusercontent.com/70209068/125988011-81463d35-dc5d-4c29-a9a3-0f2975928a6e.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 14 17](https://user-images.githubusercontent.com/70209068/125988017-f9211b0e-4f8e-4aaf-b075-ec1d8e68812c.png)
+![notification](https://user-images.githubusercontent.com/70209068/126001170-da0b7a07-9d36-42c8-a1df-c892ad9ddd92.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 14 51 40](https://user-images.githubusercontent.com/70209068/126001191-20b0fed9-28ee-4773-a1b8-73f6908400b8.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 14 51 31](https://user-images.githubusercontent.com/70209068/126001197-7acff315-e517-4acd-9209-e428900ea481.png)
 
