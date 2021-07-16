@@ -2,7 +2,8 @@
  Weather App in SwiftUI, MVVM, iOS 14, Xcode 12, Generic API Manager, Lottie Animation
 Weather app is an iOS application used with Open Weather API which will forecast the  current,daily and weekly weather report of the current location.
 
-
+# Technical Stack
+SwiftUI
 
 # Project Details
 
