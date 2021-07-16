@@ -1,7 +1,7 @@
 
 # WeatherBooth
- Weather App in SwiftUI, MVVM, iOS 14, Xcode 12, Generic API Manager, Lottie Animation
-Weather app is an iOS application used with Open Weather API which will forecast the  current,daily and weekly weather report of the current location.
+ 
+WeatherBooth is an iOS application used with Open Weather API which will forecast the  current,daily and weekly weather report of the current location.
 
 # Technical Stack
 
@@ -17,8 +17,26 @@ Weather app is an iOS application used with Open Weather API which will forecast
 - MVVM(Coding Pattern)
 - Google Mobile Ads
 - Unit test cases
+- Swift Package Dependencies
 
+# Installation
 
+This can be easily insatlled in 2 ways
+
+1. Clone the link
+2. Download the project directly
+
+Once downloaded or cloned one can directly run the application by selecting any available simulator. 
+If any problem persists, 
+    Please Simulate location if it won’t auto update in simulator
+    please install pods and try
+    
+# Execution
+
+1. "**Globe**" symbol will direct you to raw data.
+2. In Content view  uncommand "**GADBannerViewController()**" for Google mobile add (to look design nicer its hided with commandlines).
+
+    
 
 # Project Details
 
