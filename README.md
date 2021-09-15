@@ -52,6 +52,10 @@ Constants are created for the application for the easy localization or any conte
 4.**Unit test cases** : Are being added for the possible places and the code coverage has been done as much as possible, ofcourse the 100% coverage is not possible in the real world but tried to cover as much as possible due to the time constraint.
 
 
+https://user-images.githubusercontent.com/70209068/133514203-9edcb70f-95e3-4c47-95b8-8db820f8e667.mov
+
+
+
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 13 39](https://user-images.githubusercontent.com/70209068/125987970-f87005b2-8c70-40ff-b6be-299fb5c0091d.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-16 at 17 01 43](https://user-images.githubusercontent.com/70209068/126008131-933271a4-d36b-45c5-bc53-eba771793fd8.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-07-16 at 13 12 09](https://user-images.githubusercontent.com/70209068/125987998-32807b25-c743-43a7-abd0-d8e1ff014bb9.png)
